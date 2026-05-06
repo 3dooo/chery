@@ -1,2 +1,2 @@
-# Chery - https://grade33.github.io/chery
+# Chery - https://3dooo.github.io/chery
 
